@@ -1,0 +1,30 @@
+body {
+    background-image: url("tea.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-size: 30px;
+}
+
+.paypallogo {
+    height: 50px;
+    width: 75px;
+}
+
+.safepaylogo {
+    height: 40px;
+    width: 250px;
+}
+
+.hidden {
+    display: none;
+}
+
+.creditcard {
+    background-color: rgba(143, 142, 142, 0.75);
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+}
